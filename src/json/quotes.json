@@ -1,0 +1,44 @@
+{
+  "kaamelottQuotes": {
+    "initKaamelott": ["j'pensais à", "Moi j'serai vous", "J'voudrais pas faire ma raclette,",
+      "Décarrez d’chez moi!", "Y a pas à dire,",
+      "Si c’est ma tête qui vous revient pas,", "Hé toi là bas avec ton casque à cornes, ",
+      "J’y connais rien, hein, mais...", "Nan mais c’est la corbeille de fruit là... "
+    ],
+
+    "middleKaamelott": [" foutez le camp dans les montagnes avec une paire de chèvres. ",
+      " en un coup rien qu’avec des feuilles mortes ! ", " vous voulez mon pied au cul ? ",
+      " le nord, suivant comment on est tourné ",
+      " y a ma grand-mère qui a glissé sur une bouse ! C’est le vrai merdier ! ",
+      " les petits bouts de fromage par terre ", " balancer un morceau de rocher comme une catapulte ",
+      " avec son épée qui fait de la lumière, son Merlin qui fait pleuvoir des grenouilles et sa Dame du Lac qui se prend pour une truite ",
+      " la joie de vivre et le jambon "
+    ],
+
+    "endKaamelott": ["moi quand vous faites ça, ça me fout une angoisse… ",
+      "dans une carriole.", "j'en mettrais ma tête au feu !", "dans le doute j'les ai bouffés.",
+      "enfin à une vache près, c’est pas une science exacte.", "c’est le manque de gras, je me dessèche.",
+      "ça me fait de la spasmophilie !", "vous me prenez pour un serre-livre ?",
+      "j'me la taille en biseau."
+    ]
+  },
+  "howIMetQuotes": {
+    "initHowIMet": ["Challenge accepté,", "Ca va être HALU... attends la suite -",
+      "  Lâche pas l'affaire,", "Souviens toi du proverbe :", "Tu ne sais pas viser,",
+      " Voyez-moi comme le Yoda, je suis ton frère, je suis bro-da.", "  Je paye la note,",
+      "Dieu, c'est moi, Barney. ça roule?", "Je vais tout mettre dans mon blog,"
+    ],
+
+    "middleHowIMet": [" elle m'a totalement raté ", " t'en rates un, un autre arrive dans les 5 minutes. ",
+      " Ok, retrouve-moi au bar dans 15 minutes ", " quand tu vas à un premier rendez-vous, ",
+      " j'ai juste le sentiment qu'elle est la future Mme Ted Mosby. ", " avez-vous rencontré Ted ? ",
+      " quand on aime on n’arrête pas, jamais, ", " mot inventé qui combine 'possible' et 'impossible' ",
+      " une famille de géants qui prend la mayo en perfusion essaye de m'aspirer dans leur cauchemar de banlieue. "
+    ],
+
+    "endHowIMet": ["c'est une estampille pour lopettes.", "on dirait un Backstreet Boy.",
+      "on dirait un broyeur à ordure rempli de clous de tapissier.", "histoire vraie", "tape m'en cinq!", "et mets un costume !",
+      "alors tu t'es dégonflé comme un puceau.", "ça me dérange pas. ", "ça va être légendaire!"
+    ]
+  }
+}
